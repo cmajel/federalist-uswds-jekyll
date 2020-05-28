@@ -1,5 +1,3 @@
-
--->
 # This has been moved
 Updates can be found here:
 https://github.com/18F/federalist-jekyll-uswds-18f-port
